@@ -52,4 +52,4 @@ def get_data(row_nr):
 def fig():
     return "Gemiddeld-Calcium-Per-Land.png"
 
-app.run(port=1337)
+# app.run(port=1337)
